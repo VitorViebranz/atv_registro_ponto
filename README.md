@@ -17,13 +17,13 @@ Projeto desenvolvido para a disciplina **Programação Orientada a Objetos II** 
 
 ## Diagrama de Classes (UML)
 
-![Diagrama UML](WhatsApp Image 2026-03-12 at 21.23.03.jpeg)
+![Diagrama UML](uml.jpeg)
 
 ---
 
 ## Diagrama MER (Modelo Entidade Relacionamento)
 
-![Diagrama MER](WhatsApp Image 2026-03-12 at 21.04.20.jpeg)
+![Diagrama MER](mer.jpeg)
 
 ---
 
