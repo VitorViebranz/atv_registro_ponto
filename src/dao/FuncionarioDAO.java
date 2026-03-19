@@ -24,7 +24,7 @@ public class FuncionarioDAO extends BaseDAO {
                 return new Funcionario(rs.getLong("id"), rs.getString("matricula"), rs.getString("nome"), d);
             }
         } catch (Exception e) {
-            e.printStackTrace();
+            System.out.println("ERRO: " + e.getMessage());
         }
         return null;
     }
