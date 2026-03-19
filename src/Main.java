@@ -14,7 +14,7 @@ public class Main {
         FuncionarioDAO funcDao = new FuncionarioDAO();
         RegistroPontoDAO rpDao = new RegistroPontoDAO();
 
-        long funcId = 1L;
+        long funcId = 1;
         LocalDate dataRelatorio = LocalDate.of(2026, 3, 10);
 
         Funcionario f = funcDao.obterPorId(funcId);
