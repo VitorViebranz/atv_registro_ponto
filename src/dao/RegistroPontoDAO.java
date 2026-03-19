@@ -27,7 +27,7 @@ public class RegistroPontoDAO extends BaseDAO {
                 ));
             }
         } catch (Exception e) {
-            e.printStackTrace();
+            System.out.println("Erro ao obter registro ponto: " + e.getMessage());
         }
         return lista;
     }
